@@ -2,7 +2,7 @@
 title: "YOLOv5와 Dual Kalman Filter 기반의 폐색영역에 강건한 객체 추적 프레임워크"
 collection: publications
 category: korea_journal
-permalink: /publication/YOLO_KM
+permalink: /publication/2023_YOLO_KM
 date: 2023-02-01
 excerpt: ''
 venue: '한국정보기술학회논문지'
