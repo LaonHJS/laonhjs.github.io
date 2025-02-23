@@ -3,7 +3,6 @@ title: "A Metaheuristic-Based Weight Optimization for Robust Deep Reinforcement 
 collection: publications
 category: under_review
 permalink: /publication/MH_RL
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-09-18
 venue: 'Swarm and Evolutionary Computation'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4966126'
