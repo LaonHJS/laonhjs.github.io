@@ -2,7 +2,7 @@
 title: "공통 신호주기 제약을 고려한 Particle Swarm Optimization 기반 다중 교차로 교통 신호 최적화"
 collection: publications
 category: korea_journal
-permalink: /publication/PSO_inter
+permalink: /publication/2024_PSO_inter
 date: 2024-10-01
 venue: '대한산업공학회지'
 excerpt: ''
