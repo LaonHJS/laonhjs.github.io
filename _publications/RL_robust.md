@@ -3,7 +3,7 @@ title: "A Reinforcement Learning Approach to Robust Scheduling of Semiconductor 
 collection: publications
 category: inter_journal
 permalink: /publication/RL_robust
-excerpt: 'This paper is about reinforcement learning approach to robust scheduling of semiconductor manufacturing facilities.'
+excerpt: ''
 date: 2020-07-02
 venue: 'IEEE Transactions on Automation Science and Engineering'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8946870'
