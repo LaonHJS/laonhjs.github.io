@@ -2,7 +2,7 @@
 title: "A Generation and Repair Approach to Scheduling Semiconductor Packaging Facilities Using Case-based Reasoning"
 collection: publications
 category: inter_journal
-permalink: /publication/CBR_scheduling_smf
+permalink: /publication/2023_CBR_scheduling_smf
 date: 2023-05-18
 venue: 'IEEE Access'
 excerpt: ''
