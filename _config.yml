@@ -78,10 +78,20 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  under_review:
+    title: 'Under Review'
+  work_in_process:
+    title: 'Work in Process'
+  inter_journal:
+    title: 'International Journal Papers'  
+  korea_journal:
+    title: 'Korean Journal Papers'  
+  inter_conferences:
+    title: 'International Conference Papers'
+  korea_conferences:
+    title: 'Korean Conference Papers'
+  Patents:
+    title: 'Patents'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
