@@ -5,7 +5,7 @@ category: inter_journal
 permalink: /publication/contrastive
 date: 2024-05-30
 venue: 'Intelligent Data Analysis'
-excerpt: 'This paper is about semi-supervised contrastive learning for time series classification'
+excerpt: ''
 paperurl: 'https://content.iospress.com/articles/intelligent-data-analysis/ida240002'
 citation: 'Kim, D., Cho, S., Chae, H., Park, J., & Huh, J.* (2024), Semi-Supervised Contrastive Learning with Decomposition-based Data Augmentation for Time Series Classification, to Appear in Intelligent Data Analysis. (SCIE)'
 ---
