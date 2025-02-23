@@ -2,7 +2,7 @@
 title: "A Case-Based Reasoning Approach to Fast Optimization of Travel Routes for Large-Scale AS/RSs"
 collection: publications
 category: inter_journal
-permalink: /publication/CBR_ASRS
+permalink: /publication/2019_CBR_ASRS
 excerpt: ''
 date: 2019-04-01
 venue: 'Journal of Intelligent Manufacturing'
