@@ -3,7 +3,6 @@ title: "A Behavior Optimization Method for Unmanned Combat Aerial Vehicles Using
 collection: publications
 category: inter_journal
 permalink: /publication/MF_BOM
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
 venue: 'IEEE Access'
 paperurl: 'https://ieeexplore.ieee.org/document/9103002'
