@@ -4,6 +4,7 @@ collection: publications
 category: inter_journal
 permalink: /publication/MF_BOM
 date: 2010-10-01
+excerpt: ''
 venue: 'IEEE Access'
 paperurl: 'https://ieeexplore.ieee.org/document/9103002'
 citation: ' Huh, J., Park, J., Shin, D., & Choi, Y.* (2020), A Behavior Optimization Method for Unmanned Combat Aerial Vehicles Using Matrix Factorization, IEEE Access, 8, 100298-100307. (SCIE)'
