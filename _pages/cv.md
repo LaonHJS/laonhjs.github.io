@@ -21,8 +21,8 @@ Education
 
 Work Experience
 ======
-* 2021-2023: Applied Scientist - Consulting
-  * Gausslabs Inc.
+* 2021-2023: Gausslabs Inc., Seoul-si, Republic of Korea
+  * Applied Scientist - Consulting
 
 Research Area
 ======
@@ -31,7 +31,15 @@ Research Area
 * Deep Reinforcement Learning
 * Meta-heuristics
 * Case-Based Reasoning
-  
+
+Research Projects
+======
+* 2024: Whyout Inc., Seoul, Republic of Korea
+  * Development of AI-Based Image Recognition and Recommendation System
+* 2020-2022: National Research Foundation, Seoul, Republic of Korea
+  * Development of AI-Based Image Recognition and Recommendation System
+* 2016-2018: Professional Consulting Group, Seoul, Republic of Korea
+  * Intelligent Real-Time Scheduling/Dispatching Using Deep Reinforcement Learning
     
 Publications
 ======
