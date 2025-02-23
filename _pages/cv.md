@@ -9,38 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
+Current Position
+======
+* Assistant Professor, Tech University of Korea, 2019--Current
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Industrial Engineering, Seoul National University, 2019
+* B.S. in Industrial Engineering, Seoul National University, 2013
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2021-2023: Applied Scientist - Consulting
+  * Gausslabs Inc.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Research Area
+======
+* Scheduling of Complex Manufacturing System
+* Optimization
+* Deep Reinforcement Learning
+* Meta-heuristics
+* Case-Based Reasoning
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+    
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
