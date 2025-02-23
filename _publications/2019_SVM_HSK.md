@@ -2,7 +2,7 @@
 title: "A Hierarchical SVM Based Behavior Inference of Human Operators Using a Hybrid Sequence Kernel"
 collection: publications
 category: inter_journal
-permalink: /publication/SVM_HSK
+permalink: /publication/2019_SVM_HSK
 date: 2019-09-04
 excerpt: ''
 venue: 'Sustainability'
