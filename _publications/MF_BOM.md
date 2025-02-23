@@ -3,7 +3,7 @@ title: "A Behavior Optimization Method for Unmanned Combat Aerial Vehicles Using
 collection: publications
 category: inter_journal
 permalink: /publication/MF_BOM
-date: 2010-10-01
+date: 2020-10-01
 excerpt: ''
 venue: 'IEEE Access'
 paperurl: 'https://ieeexplore.ieee.org/document/9103002'
