@@ -5,7 +5,7 @@ category: inter_journal
 permalink: /publication/CBR_scheduling_smf
 date: 2023-05-18
 venue: 'IEEE Access'
-excerpt: 'This paper is about case-based reasoning approach to scheduling semiconductor packaging facilities'
+excerpt: ''
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10129182'
 citation: 'Park, I., Huh, J.*, & Park, J. (2023), "A Generation and Repair Approach to Scheduling Semiconductor Packaging Facilities Using Case-based Reasoning", IEEE Access, 11, 50631–50641. (SCIE)'
 ---
