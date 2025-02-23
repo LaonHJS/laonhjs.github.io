@@ -5,6 +5,7 @@ category: under_review
 permalink: /publication/GA_FAE3D
 date: 2025-02-18
 venue: 'Swarm and Evolutionary Computation'
+excerpt: ''
 paperurl: ''
 citation: 'Park, I., & Huh, J.*, A Genetic Algorithm with Feasibility-Agnostic Encoding and Three-Phase Decoding for Scheduling Semiconductor Manufacturing Facilities under Constrained Queue Time, to submitted to Swarm and Evolutionary Computation.'
 ---
