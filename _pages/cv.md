@@ -12,6 +12,7 @@ redirect_from:
 Current Position
 ======
 * Assistant Professor, Tech University of Korea, 2019--Current
+* Advisory Committee member, Republic of Korea Army, 2021--Current
 
 Education
 ======
