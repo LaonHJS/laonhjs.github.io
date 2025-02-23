@@ -13,7 +13,7 @@ title                    : "Jaeseok Huh"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : "https://jaeseokhuh.github.io"
+url                      : "https://laonhjs.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
