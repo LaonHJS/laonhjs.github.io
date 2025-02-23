@@ -3,7 +3,6 @@ title: "Semi-Supervised Contrastive Learning with Decomposition-based Data Augme
 collection: publications
 category: inter_journal
 permalink: /publication/contrastive
-excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-05-30
 venue: 'Intelligent Data Analysis'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
