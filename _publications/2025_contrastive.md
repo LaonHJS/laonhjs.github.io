@@ -2,7 +2,7 @@
 title: "Semi-Supervised Contrastive Learning with Decomposition-based Data Augmentation for Time Series Classification"
 collection: publications
 category: inter_journal
-permalink: /publication/contrastive
+permalink: /publication/2025_contrastive
 date: 2024-05-30
 venue: 'Intelligent Data Analysis'
 excerpt: ''
