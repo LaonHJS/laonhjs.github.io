@@ -7,7 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hello! I am an assistant professor in the Department of Business Administration at Tech University of Korea. With a background in industrial engineering, I specialize in smart manufacturing systems. My research interests lie in autonomous and intelligent manufacturing, where I actively engage in interdisciplinary work that bridges business management, industrial engineering, and AI-driven optimization techniques. 
+
+Currently, I lead the Smart Factory Interdisciplinary Major. My research focuses on optimizing production systems, applying reinforcement learning to scheduling problems, and integrating discrete-event-based simulation into industrial environments.
+
+Beyond academia, I am passionate about education and curriculum development, particularly in designing courses that help students explore their roles in society, set academic goals, and develop essential competencies. I also have a deep interest in projects ranging from cryptocurrency trading bots to simulation-based problem-solving in manufacturing.
+
+On this website, I share insights on my research, teaching, and technical projects. If you are interested in collaborations, academic discussions, or simply exchanging ideas, feel free to reach out!
 
 Getting started
 ======
