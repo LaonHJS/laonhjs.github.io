@@ -3,7 +3,6 @@ title: "A Genetic Algorithm with Feasibility-Agnostic Encoding and Three-Phase D
 collection: publications
 category: under_review
 permalink: /publication/GA_FAE3D
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-02-18
 venue: 'Swarm and Evolutionary Computation'
 paperurl: ''
