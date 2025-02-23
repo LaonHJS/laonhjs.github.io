@@ -4,6 +4,7 @@ collection: publications
 category: under_review
 permalink: /publication/MH_RL
 date: 2024-09-18
+excerpt: ''
 venue: 'Swarm and Evolutionary Computation'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4966126'
 citation: 'Ko, G., & Huh, J.*, A Metaheuristic-Based Weight Optimization for Robust Deep Reinforcement Learning in Continuous Control, submitted to Swarm and Evolutionary Computation'
