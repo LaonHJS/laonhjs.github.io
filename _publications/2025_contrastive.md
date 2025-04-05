@@ -3,7 +3,7 @@ title: "Semi-Supervised Contrastive Learning with Decomposition-based Data Augme
 collection: publications
 category: inter_journal
 permalink: /publication/2025_contrastive
-date: 2024-05-30
+date: 2025-03-28
 venue: 'Intelligent Data Analysis'
 excerpt: ''
 paperurl: 'https://journals.sagepub.com/doi/full/10.3233/IDA-240002?casa_token=RHXMJthVutAAAAAA%3AgdW7BtejNyxj7IAw3YiaISJfQWEYk7ZUjQcUe_4oJG7BWM3i2nIJBCA2Rux6xv41tEUGqroZh3wzgA'
